@@ -1,0 +1,105 @@
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Gestion Jugadores.exe.config
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Gestion Jugadores.exe
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Gestion Jugadores.pdb
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Dapper.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\EntityFramework.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Google.Protobuf.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\MySql.Data.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Renci.SshNet.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Dapper.xml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\EntityFramework.xml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Google.Protobuf.xml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\MySql.Data.xml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Renci.SshNet.xml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion Jugadores.csprojAssemblyReference.cache
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\MainWindow.g.cs
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\App.g.cs
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion Jugadores_MarkupCompile.cache
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion Jugadores_MarkupCompile.lref
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\MainWindow.baml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion Jugadores.g.resources
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion_Jugadores.Properties.Resources.resources
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion Jugadores.csproj.GenerateResource.cache
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion Jugadores.csproj.CoreCompileInputs.cache
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion Jugadores.csproj.CopyComplete
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion Jugadores.exe
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Gestion Jugadores.pdb
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\AnyadirJugador.g.cs
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\AnyadirJugador.baml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Modificar.g.cs
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Modificar.baml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Borrar.g.cs
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\Borrar.baml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\VentanaInforme.g.cs
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\obj\Debug\VentanaInforme.baml
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Report1.rdlc
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\EnvDTE.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\stdole.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pacos\source\repos\Gestion Jugadores\Gestion Jugadores\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll

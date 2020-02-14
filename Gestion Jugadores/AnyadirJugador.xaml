@@ -1,0 +1,32 @@
+﻿<Window x:Class="Gestion_Jugadores.AnyadirJugador"
+       
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gestion_Jugadores"
+        mc:Ignorable="d"
+        Title="Window1" Height="675.333" Width="628.333">
+    <Grid Margin="10,29,3.333,6">
+
+        <Label Content="id" HorizontalAlignment="Left" Margin="110,48,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,1.7"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="110,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="Apellido" HorizontalAlignment="Left" Margin="110,180,0,0" VerticalAlignment="Top"/>
+        <Label Content="Equipo" HorizontalAlignment="Left" Margin="110,245,0,0" VerticalAlignment="Top"/>
+        <Label Content="Posicion" HorizontalAlignment="Left" Margin="110,309,0,0" VerticalAlignment="Top"/>
+        <Label Content="Fecha&#xD;&#xA;" HorizontalAlignment="Left" Margin="110,360,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbID" HorizontalAlignment="Left" Height="23" Margin="270,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="tbNombre" HorizontalAlignment="Left" Height="23" Margin="270,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbApellido" HorizontalAlignment="Left" Height="23" Margin="270,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbEquipo" HorizontalAlignment="Left" Height="23" Margin="270,257,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbPosicion" HorizontalAlignment="Left" Height="23" Margin="270,313,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="dpCalendar" HorizontalAlignment="Left" Margin="270,361,0,0" VerticalAlignment="Top"/>
+        <Button Content="Cancelar" HorizontalAlignment="Left" Margin="340,554,0,0" VerticalAlignment="Top" Width="75" Click="Button_Cancelar"/>
+        <Button Content="Aceptar" HorizontalAlignment="Left" Margin="475,555,0,0" VerticalAlignment="Top" Width="75"  Click="Button_Aceptar"/>
+        <Label Content="Salario" HorizontalAlignment="Left" Margin="113,419,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbSalario" HorizontalAlignment="Left" Height="23" Margin="270,419,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Altura" HorizontalAlignment="Left" Margin="113,464,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbAltura" HorizontalAlignment="Left" Height="23" Margin="270,468,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.333,0.913"/>
+
+    </Grid>
+</Window>
